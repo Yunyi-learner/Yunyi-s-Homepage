@@ -26,8 +26,8 @@ navigation:
     url: /about
   - name: Articles
     url: /archive
-  - name: My Dog
-    url: /taffy
+  - name: Tag
+    url: /tags
 
 # Pagination
 paginate: 8
