@@ -10,11 +10,11 @@ Yunyi Li
 #### EDUCATION
 Ph.D. Biostatistcs,Indiana University-Purdue University Indianapolis, 2019 - present
 
-- Research Area: Machine Learning and Deep learning based Longitudinal, Time Series, Irregularly Sparse Sampling
+- **Research Area: Machine Learning and Deep learning based Longitudinal, Time Series, Irregularly Sparse Sampling**
 
 - Minor, Computer Science (CS)
 
-- Relevant Coursework: Statistical Machine Learning, Deep Learning, Algorithm Design, Analysis and Implement, Artificial Intelligent Systems
+- **Relevant Coursework: Statistical Machine Learning, Deep Learning, Algorithm Design, Analysis and Implement, Artificial Intelligent Systems**
 
 M.S. Biostatistics, Georgetown University, 2014 - 2015
 
@@ -26,6 +26,15 @@ B.S. Psychology, Sun Yat-sen University, 2008 - 2012
 Research Assistant, INDIANA UNIVERSITY, June 2020 - present
 
 - Differential effects of risk factors on cognitive trajectories in Alzheimer's disease & blood biomarker studies
+
+Algorithm Design, Analysis, and Implement Projects, INDIANA UNIVERSITY, Sep 2021 - Dec 2021
+
+Deep Learning Projects, INDIANA UNIVERSITY, Sep 2021 - Dec 2021
+
+Statistical Machine Learning Projects, INDIANA UNIVERSITY, Jan 2021 - May 2021
+
+Neuroscience Literature Mining with Genes, INDIANA UNIVERSITY, Sep 2020 - Dec 2020
+
 
 Teaching Assistant, INDIANA UNIVERSITY, Sep 2019 - June 2020
 
