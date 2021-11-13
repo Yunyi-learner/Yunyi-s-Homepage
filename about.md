@@ -1,10 +1,9 @@
 ---
 layout: page
-title: About
+title: Biography
 permalink: /about/
 ---
 
-### Biography
 Yunyi Li
 
 #### EDUCATION
