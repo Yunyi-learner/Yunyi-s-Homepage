@@ -4,10 +4,12 @@ title: Biography
 permalink: /about/
 ---
 
-Yunyi Li
+Yunyi (Jolie) Li
 
 #### EDUCATION
 Ph.D. Biostatistcs,Indiana University-Purdue University Indianapolis, 2019 - present
+
+- **Advisors: [Dr. Hao Liu](https://www.linkedin.com/in/hao-liu-153aa090/), [Dr. Sujuan Gao](https://medicine.iu.edu/faculty/2068/gao-sujuan)
 
 - **Research Area: Machine Learning and Deep learning based Longitudinal, Time Series, Irregularly Sparse Sampling**
 
