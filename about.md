@@ -8,6 +8,7 @@ Yunyi (Jolie) Li
 
 #### EDUCATION
 Ph.D. Biostatistcs,Indiana University-Purdue University Indianapolis, 2019 - present
+- Recipient of the Richard M. Fairbanks Fellowship
 
 - Advisors: [Dr. Hao Liu](https://www.linkedin.com/in/hao-liu-153aa090/), [Dr. Sujuan Gao](https://medicine.iu.edu/faculty/2068/gao-sujuan)
 
