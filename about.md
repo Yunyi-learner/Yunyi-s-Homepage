@@ -62,7 +62,7 @@ SAS Certified Advanced Programmer for SAS 9
 
 **Skills:**
 
-SAS, R, Python, C++, MATLAB, LATEX, Machine Learning, Deep learning, Neural Network, Tensorflow, Keras, Pytorch
+SQL, SAS, R, Python, C++, MATLAB, LATEX, Machine Learning, Deep learning, Neural Network, Tensorflow, Keras, Pytorch
 
 #### PUBLICATIONS
 Yi, L., Liu, Y., Li, Y., Fan, Y., Huang, D., & Gao, D. (2012). Visual Scanning Patterns during the Dimensional Change Card Sorting Task in Children with Autism Spectrum Disorder. Autism research and treatment, 2012, 123053. doi:10.1155/2012/123053
