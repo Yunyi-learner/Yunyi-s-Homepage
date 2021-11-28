@@ -10,3 +10,7 @@ comments: true
 ![Predator-Prey](https://raw.githubusercontent.com/Yunyi-learner/Yunyi-s-Homepage/main/images/noise_0.2.png)
 
 ![](https://raw.githubusercontent.com/Yunyi-learner/Yunyi-s-Homepage/main/images/IMG_1296.jpg)
+
+![](https://raw.githubusercontent.com/Yunyi-learner/Yunyi-s-Homepage/main/images/IMG_1288.JPG)
+
+![](https://raw.githubusercontent.com/Yunyi-learner/Yunyi-s-Homepage/main/images/IMG_0940.JPG)
