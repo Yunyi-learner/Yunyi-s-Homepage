@@ -7,17 +7,4 @@ categories:
 tags: [plots]
 comments: true
 --- 
-<img src="https://github.com/Yunyi-learner/Yunyi-s-Homepage/blob/main/images/IMG_0940.JPG" width=500 hight=300 align=right>
-
-
-<img src="https://github.com/Yunyi-learner/Yunyi-s-Homepage/blob/main/images/IMG_1288.JPG" width=300 hight=300 align=left>
-
-
-<img src="https://github.com/Yunyi-learner/Yunyi-s-Homepage/blob/main/images/IMG_12891.png" width=300 hight=300 align=right>
-
-
-<img src="https://github.com/Yunyi-learner/Yunyi-s-Homepage/blob/main/images/IMG_1292.JPG" width=300 hight=200 align=left>
-
-
-<img src="https://github.com/Yunyi-learner/Yunyi-s-Homepage/blob/main/images/IMG_1296.jpg" width=300 hight=300 align=right>
-
+![Predator-Prey](https://raw.githubusercontent.com/Yunyi-learner/Yunyi-s-Homepage/main/images/noise_0.2.png)
